@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves exploring va
 
 I'm a dedicated learner and problem solver with a strong interest in programming. I enjoy working with different programming languages, which allow me to tackle a wide range of projects, from web development to machine learning.
 
-As a recent member of the GitHub community since July 2021, I've already immersed myself in the world of open source and actively contribute to the community. You'll find 11 public repositories on my profile, showcasing my passion and diverse interests.
+As a recent member of the GitHub community since July 2021, I've already immersed myself in the world of open source and actively contribute to the community. You'll find a few public repositories on my profile, showcasing my passion and diverse interests.
 
 ## Skills and Interests 👨‍💻
 
