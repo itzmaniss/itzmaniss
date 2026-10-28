@@ -2,6 +2,8 @@
 
 I'm a Computer Science student in Singapore who likes turning problems into small, useful tools. Bots, automation, and AI-powered projects are my happy place, and I teach coding and AI on the side.
 
+[Manish Balasubramanian's Portfolio](https://itzmaniss.dev)
+
 🏆 **Global Winner, Intel AI Global Impact Festival 2024** with the team project AgriGate AI, and **Country Award 2025** for my data work on RhizoRing.
 
 ## About Me 🚀
